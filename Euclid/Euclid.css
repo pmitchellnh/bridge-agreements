@@ -14,7 +14,13 @@ A:hover { font: 14pt; color: red }
 .hidden { display: none }
 .smolen { display: none }
 .flannery { display: none }
-.notflannery { display: inline }
+.not-flannery { }
 .jabbour { display: none }
 .lebensohl-nt { display: none }
 .meckwell { display: none }
+.obvious-shift { display: none }
+.not-obvious-shift { }
+.fourth-best-leads { }
+.third-and-fifth-leads { display: none }
+.standard-discard { }
+.upside-down-discard { display: none }
