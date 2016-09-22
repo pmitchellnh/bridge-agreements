@@ -1,0 +1,20 @@
+
+BODY {color: black}
+BODY { font: 12pt Times, serif }
+A:link { color: black }
+A:visited { color: black }
+A:active { color: black }
+A:hover { font: 14pt; color: red }
+.spade { color: black; font-size: 1.3em }
+.heart { color: red; font-size: 1.3em }
+.diam { color: red; font-size: 1.3em }
+.club { color: black; font-size: 1.3em }
+.alert { color: red }
+.announce { color: blue }
+.hidden { display: none }
+.smolen { display: none }
+.flannery { display: none }
+.notflannery { display: inline }
+.jabbour { display: none }
+.lebensohl-nt { display: none }
+.meckwell { display: none }

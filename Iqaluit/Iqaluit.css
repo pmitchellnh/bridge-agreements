@@ -1,0 +1,7 @@
+
+BODY {color: black}
+BODY { font: 12pt Times, serif }
+A:link { color: black }
+A:visited { color: black }
+A:active { color: black }
+A:hover { font: 14pt; color: red }
