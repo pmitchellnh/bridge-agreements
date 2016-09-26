@@ -26,3 +26,24 @@ A:hover { font: 14pt; color: red }
 .upside-down-discard { display: none }
 .splinter-after-stayman { display: none }
 .superaccepts { display: none }
+.puppet-over-1nt { }
+.minor-suit-stayman { display: none }
+.2NT-3S-pass-or-correct { }
+.super-gerber { display: none }
+.bergen { display: none }
+.not-bergen { }
+.drury { display: none }
+.manfield { display: none }
+.defense-over-2suited-overcalls { display: none }
+.flip-flop { display: none }
+.not-flip-flop { }
+.modified-rkc-gerber { display: none }
+.mccabe { display: none }
+.dont { display: none }
+.cappelletti { display: none }
+.support-double { display: none }
+.responsive-double { display: none }
+.new-minor-forcing { display: none }
+.defense-over-flannery { display: none }
+.defense-over-1c { display: none }
+.lightner-doubles { display: none }
