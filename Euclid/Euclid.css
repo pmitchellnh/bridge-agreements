@@ -16,10 +16,10 @@ A:hover { font: 14pt; color: red }
 .flannery { display: none }
 .not-flannery { }
 .jabbour { display: none }
-.lebensohl-nt { display: none }
+.lebensohl-nt { }
 .meckwell { display: none }
-.obvious-shift { display: none }
-.not-obvious-shift { }
+.obvious-shift { }
+.not-obvious-shift { display: none }
 .fourth-best-leads { }
 .third-and-fifth-leads { display: none }
 .standard-discard { }
@@ -39,11 +39,11 @@ A:hover { font: 14pt; color: red }
 .not-flip-flop { }
 .modified-rkc-gerber { display: none }
 .mccabe { display: none }
-.dont { display: none }
+.dont { }
 .cappelletti { display: none }
 .support-double { display: none }
 .responsive-double { display: none }
 .new-minor-forcing { display: none }
 .defense-over-flannery { display: none }
-.defense-over-1c { display: none }
+.defense-over-1c { }
 .lightner-doubles { display: none }
